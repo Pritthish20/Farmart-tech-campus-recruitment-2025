@@ -1,0 +1,13 @@
+{
+  "name": "farmart-tech-campus-recruitment-2025",
+  "version": "1.0.0",
+  "description": "## Background",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
