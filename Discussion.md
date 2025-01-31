@@ -14,7 +14,7 @@
 
 ---
 
-## 3. **Chunk-Based Parallel Processing**  
+## 3. **Chunk-Based Parallel Processing (Used)**  
 **Intuition:** Splits the file into chunks and processes them concurrently.  
 **Advantages:**  Utilizes multi-core CPUs for faster processing.  
 **Best Use Case:** When dealing with very large files and concurrent operations.
